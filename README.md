@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @unchadaa
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c+
+- 📫 How to reach me ali.dk.sorkhabi@gmail.com
